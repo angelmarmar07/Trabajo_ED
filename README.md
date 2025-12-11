@@ -6,10 +6,13 @@
     <li>TiempoResta()</li>
   </ul>
     Estas funciones permiten sumar y restar dos tiempos dados en horas, minutos y segundos.
-    Que el usuario tendra que  ingresar dos tiempos y el programa mostrara el resultado de la suma o de la resta.<br>
-    En este caso en el codigo se esta utilizando la funcion de resta.
-    
+   
 </p>
+<p>
+  El usuario tendra que ingresar dos tiempos y el programa mostrara el resultado de la suma o de la resta.<br>
+  En este caso en el codigo se esta utilizando la funcion de resta.
+</p>
+
 
 
 # Viedeo Demostrativo:
