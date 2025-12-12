@@ -1,7 +1,7 @@
 package Codigo;
 
 import java.util.Scanner;
-public static IntroducirHoras{
+public static IntroducirHoras(){
 		Scanner teclado = new Scanner(System.in);
 		int horas;
 		int minutos;
