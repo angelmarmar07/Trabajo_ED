@@ -13,6 +13,7 @@ public static IntroducirHoras{
 		minutos =  Integer.parseInt(teclado.nextLine());
 		System.out.print("Introduce los segundos (s): ");
 		segundos =  Integer.parseInt(teclado.nextLine());
+		System.out.println();
 
 }
 public class PruebTiempo {
